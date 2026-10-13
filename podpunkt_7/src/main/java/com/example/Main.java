@@ -15,11 +15,11 @@ public final class Main {
         library.addBook(new Book("Pan Tadeusz", "Adam Mickiewicz"));
         library.addBook(new Book("Lalka", "Henryk Sienkiewicz"));
         library.addBook(new Book("Zbrodnia i kara", "Fyodor Dostojewski"));
-        library.addBook(new Book("Balladyna", "Juliusz Słowacki"));
+        library.addBook(new Book("Balladyna", "Juliusz Slowacki"));
 
         System.out.println("\n");
 
-        System.out.println("Lista lektur w bibliotece:");
+        System.out.println("Lista ksiazek w bibliotece:");
         library.printAllBooks();
 
         System.out.println("\n");
