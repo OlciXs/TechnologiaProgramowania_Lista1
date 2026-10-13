@@ -18,7 +18,7 @@ public final class Main {
 
         System.out.println("\n");
 
-        System.out.println("Lista ksiazek w bibliotece:");
+        System.out.println("Lista pozycji w bibliotece:");
         library.printAllBooks();
 
         System.out.println("\n");

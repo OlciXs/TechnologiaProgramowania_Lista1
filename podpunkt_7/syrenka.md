@@ -23,5 +23,3 @@ classDiagram
     LibraryService "1" o-- "*" Book : zarządza
     Main ..> LibraryService : używa
     Main ..> Book : tworzy
-
-    ``` CTRL + SHIFT + V
