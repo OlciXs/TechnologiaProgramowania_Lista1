@@ -1,0 +1,5 @@
+pt\training\maven\jee\model\Widget.class
+pt\training\maven\jee\model\HelloWorld.class
+pt\training\maven\jee\model\WidgetRepository.class
+pt\training\maven\jee\model\WidgetRepositoryProducer.class
+pt\training\maven\jee\model\WidgetListProducer.class

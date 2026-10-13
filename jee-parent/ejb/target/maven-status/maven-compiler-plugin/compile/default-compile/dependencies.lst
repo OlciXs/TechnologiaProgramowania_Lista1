@@ -1,0 +1,12 @@
+classpath:C:\Users\oabc1\.m2\repository\javax\enterprise\cdi-api\1.0\cdi-api-1.0.jar	44908:1257720259000
+classpath:C:\Users\oabc1\.m2\repository\org\jboss\interceptor\jboss-interceptor-api\1.1\jboss-interceptor-api-1.1.jar	5952:1751601054000
+classpath:C:\Users\oabc1\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar	2497:1255476900000
+classpath:C:\Users\oabc1\.m2\repository\javax\annotation\jsr250-api\1.0\jsr250-api-1.0.jar	5848:1164239377000
+classpath:C:\Users\oabc1\.m2\repository\javax\validation\validation-api\1.0.0.GA\validation-api-1.0.0.GA.jar	47433:1751589773000
+classpath:C:\Users\oabc1\.m2\repository\org\hibernate\hibernate-validator\4.0.0.GA\hibernate-validator-4.0.0.GA.jar	225684:1751596689000
+classpath:C:\Users\oabc1\.m2\repository\org\slf4j\slf4j-api\1.5.9.RC1\slf4j-api-1.5.9.RC1.jar	23644:1256841423000
+classpath:C:\Users\oabc1\.m2\repository\javax\xml\bind\jaxb-api\2.1\jaxb-api-2.1.jar	89967:1191225130000
+classpath:C:\Users\oabc1\.m2\repository\javax\xml\stream\stax-api\1.0-2\stax-api-1.0-2.jar	23346:1191225746000
+classpath:C:\Users\oabc1\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar	62983:1146612027000
+classpath:C:\Users\oabc1\.m2\repository\com\sun\xml\bind\jaxb-impl\2.1.3\jaxb-impl-2.1.3.jar	843569:1191224932000
+classpath:C:\Users\oabc1\.m2\repository\javax\faces\jsf-api\2.0.0-RC\jsf-api-2.0.0-RC.jar	572571:1751561877000
