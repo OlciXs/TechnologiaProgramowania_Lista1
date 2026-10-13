@@ -15,6 +15,7 @@ public final class Main {
         library.addBook(new Book("Pan Tadeusz", "Adam Mickiewicz"));
         library.addBook(new Book("Lalka", "Henryk Sienkiewicz"));
         library.addBook(new Book("Zbrodnia i kara", "Fyodor Dostojewski"));
+        library.addBook(new Book("Balladyna", "Juliusz Słowacki"));
 
         System.out.println("\n");
 
