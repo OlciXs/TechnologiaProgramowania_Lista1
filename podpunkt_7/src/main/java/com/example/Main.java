@@ -19,11 +19,7 @@ public final class Main {
 
         System.out.println("\n");
 
-<<<<<<< HEAD
-        System.out.println("Lista pozycji w bibliotece:");
-=======
         System.out.println("Lista lektur w bibliotece:");
->>>>>>> 7fe8a66e80269222499159e9eae87d9369906f79
         library.printAllBooks();
 
         System.out.println("\n");
